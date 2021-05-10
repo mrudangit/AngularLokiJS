@@ -21,10 +21,6 @@
   "projects": {
     "rubicon-data": {
       "tags": []
-    },
-    "rubicon-data-e2e": {
-      "tags": [],
-      "implicitDependencies": ["rubicon-data"]
     }
   }
 }
